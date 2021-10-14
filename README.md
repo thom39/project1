@@ -1,2 +1,2 @@
-# https://project1.github.io
+# https://thom39.github.io/project1.github.io
 project 1
